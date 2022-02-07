@@ -1,5 +1,19 @@
 >I'm AuthZero... But you can call me Zera
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AuthZero&show_icons=true&theme=synthwave)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuthZero&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<details><summary> 🛠 Coding languages I Use</summary>
+- [x] Javascript
+- [x] HTML
+- [x] Lua
+- [x] C++
+- [x] Python
+- [ ] Ruby
+ </details>
+
 <details><summary>📨 Contact Me</summary>
 
 |              | Service | Value    |        Status |
@@ -11,9 +25,8 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AuthZero&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuthZero&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
