@@ -2,7 +2,7 @@
 <details><summary>📨 Contact Me</summary>
 
 |              | test | Value    |        Status |
-| :---         |      | :---:    |          ---: |
+| :---         |  :---    | :---:    |          ---: |
 | git status   |      |git status| git status    |
 | git diff     |      | git diff | git diff      |
 
