@@ -1,15 +1,13 @@
 
-<details><summary>CLICK ME</summary>
-<p>
+<details><summary>📨 Contact</summary>
 
-#### We can hide anything, even code!
 
-    ```diff
-      -"Hello World"
-    ```
-
-</p>
 </details>
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AuthZero&show_icons=true&theme=synthwave)
