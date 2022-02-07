@@ -6,12 +6,13 @@
 
 
 <details><summary> 🛠 Coding languages I Use</summary>
-- [x] Javascript
-- [x] HTML
-- [x] Lua
-- [x] C++
-- [x] Python
-- [ ] Ruby
+-  Javascript
+-  HTML
+-  Lua
+-  C++
+-  Python
+-  Ruby -- Not at the moment
+-  C# -- Not at the moment
  </details>
 
 <details><summary>📨 Contact Me</summary>
