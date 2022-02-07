@@ -1,9 +1,18 @@
 **
 
 <details open>
-<summary>Want to ruin the surprise?</summary>
+<summary>About Me</summary>
 <br>
-Well, you asked for it!
+   ```ruby
+      puts "Hello World"
+    ```
+ Just a Rlua Developer on Roblox, who likes making friends / memories on the platform. If you need help with a project just contact me info in my Contact card.
+</details>
+
+<details open>
+<summary>📨 Contact Me/summary>
+<br>
+ Just a Rlua Developer on Roblox, who likes making friends / memories on the platform. If you need help with a project just contact me info in my Contact card.
 </details>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AuthZero&show_icons=true&theme=synthwave)
