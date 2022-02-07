@@ -6,7 +6,7 @@
 #### Basic Info
 
     ```ruby
-      => "Hello World"
+      puts "Hello World"
     ```
 
 </p>
