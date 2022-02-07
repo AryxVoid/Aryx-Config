@@ -4,10 +4,10 @@
 <summary>About Me</summary>
 <p>
 
-#### Basic Info
+#### We can hide anything, even code!
 
     ```ruby
-      => "Just a Rlua Developer on Roblox, who likes making friends / memories on the platform. If you need help with a project just contact me info in my Contact card."
+      puts "Hello World"
     ```
 
 </p>
