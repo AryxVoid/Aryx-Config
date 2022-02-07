@@ -25,8 +25,9 @@
 </details>
 
 <details><summary>Friends</summary>
-<a href="https://github.com/ChiefNotch">ChiefNotch</a>
-<a href="https://github.com/SxnwDev">SxnwDev</a>
+- <a href="https://github.com/ChiefNotch">ChiefNotch</a>,
+- <a href="https://github.com/SxnwDev">SxnwDev</a>,
+- <a href="https://github.com/TrustsenseEh">TrustsenseEh</a>
 </details>
 
 
