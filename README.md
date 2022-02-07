@@ -1,13 +1,12 @@
 **
 
-<details open>
-<summary>About Me</summary>
+<details><summary>About Me</summary>
 <p>
 
-#### We can hide anything, even code!
+#### Basic Info
 
     ```ruby
-      puts "Hello World"
+      => "Hello World"
     ```
 
 </p>
