@@ -1,5 +1,15 @@
 
+<details><summary>CLICK ME</summary>
+<p>
 
+#### We can hide anything, even code!
+
+    ```ruby
+      puts "Hello World"
+    ```
+
+</p>
+</details>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AuthZero&show_icons=true&theme=synthwave)
