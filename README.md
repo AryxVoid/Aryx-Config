@@ -1,10 +1,10 @@
 
-<details><summary>📨 Contact</summary>
+<details><summary>📨 Contact Me</summary>
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|              | Value          |        Status |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
 </details>
 
