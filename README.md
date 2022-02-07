@@ -3,8 +3,8 @@
 
 |              | Service | Value    |        Status |
 | :---         |  :---    | :---:    |          ---: |
-| ✉   |   Discord   | | git status    |
-|  💻  |   Github   | Github |https://github.com/0BunnySenpai0      |
+| ✉   |   Discord   | Auth Zero#7762 | idle    |
+|  💻  |   Github   |  <a href="https://github.com/AuthZero">Auth Zero</a> | idle      |
 
 </details>
 
