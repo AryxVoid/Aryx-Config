@@ -6,13 +6,9 @@
 
 
 <details><summary> 🛠 Coding languages I Use</summary>
--  Javascript
--  HTML
--  Lua
--  C++
--  Python
--  Ruby -- Not at the moment
--  C# -- Not at the moment
+- George Washington
+- John Adams
+- Thomas Jefferson
  </details>
 
 <details><summary>📨 Contact Me</summary>
