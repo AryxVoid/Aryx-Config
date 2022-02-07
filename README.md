@@ -14,7 +14,10 @@
 <details open>
 <summary>📨 Contact Me/summary>
 <br>
- Just a Rlua Developer on Roblox, who likes making friends / memories on the platform. If you need help with a project just contact me info in my Contact card.
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 </details>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AuthZero&show_icons=true&theme=synthwave)
