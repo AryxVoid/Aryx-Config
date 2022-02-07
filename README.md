@@ -1,9 +1,9 @@
 **
 
-<details><summary>About Me</summary>
+<details><summary>CLICK ME</summary>
 <p>
 
-#### Basic Info
+#### We can hide anything, even code!
 
     ```ruby
       puts "Hello World"
