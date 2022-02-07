@@ -1,10 +1,10 @@
 
 <details><summary>📨 Contact Me</summary>
 
-|              | test | Value    |        Status |
+|              | Service | Value    |        Status |
 | :---         |  :---    | :---:    |          ---: |
-| git status   |      |git status| git status    |
-| git diff     |      | git diff | git diff      |
+| ✉   |      |Discord| git status    |
+|  💻  |      | Github |https://github.com/0BunnySenpai0      |
 
 </details>
 
