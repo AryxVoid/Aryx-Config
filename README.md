@@ -3,8 +3,8 @@
 
 |              | Service | Value    |        Status |
 | :---         |  :---    | :---:    |          ---: |
-| ✉   |      |Discord| git status    |
-|  💻  |      | Github |https://github.com/0BunnySenpai0      |
+| ✉   |   Discord   | | git status    |
+|  💻  |   Github   | Github |https://github.com/0BunnySenpai0      |
 
 </details>
 
