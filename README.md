@@ -1,13 +1,13 @@
 
 <details><summary>📨 Contact</summary>
 
-
-</details>
-
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
+</details>
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AuthZero&show_icons=true&theme=synthwave)
