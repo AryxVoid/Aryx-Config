@@ -1,8 +1,8 @@
 **
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AuthZero&show_icons=true&theme=gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AuthZero&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuthZero&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuthZero&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **
