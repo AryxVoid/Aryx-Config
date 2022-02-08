@@ -1,3 +1,5 @@
+#AuthZero
+
 >I'm AuthZero... But you can call me Zera
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AuthZero&show_icons=true&theme=synthwave)
