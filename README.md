@@ -1,4 +1,3 @@
-```
 
 >I'm AuthZero... But you can call me Zera
 
@@ -35,7 +34,5 @@
 
 >That's all
 
-
-```
 
 
