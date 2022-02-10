@@ -4,12 +4,14 @@
 
 >I'm AuthZero... But you can call me Takimeru
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/481475041217871882?borderRadius=5px&idleMessage=not%20doing%20anything&bg=a)](https://discord.com/users/481475041217871882)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AuthZero&show_icons=true&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuthZero&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/481475041217871882?borderRadius=5px&idleMessage=not%20doing%20anything&bg=a)](https://discord.com/users/481475041217871882)
+
 
 
 
