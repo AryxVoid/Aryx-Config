@@ -8,7 +8,7 @@
 
 <details><summary> 🛠 Activites</summary>
  
-[![Discord Presence](https://lanyard.cnrad.dev/api/289437638237224961?borderRadius=5px&idleMessage=not%20doing%20anything&bg=a)](https://discord.com/users/481475041217871882)
+[![Discord Presence](https://lanyard.cnrad.dev/api/481475041217871882?borderRadius=5px&idleMessage=not%20doing%20anything&bg=a)](https://discord.com/users/481475041217871882)
  </details>
 
 <details><summary>📨 Contact Me</summary>
