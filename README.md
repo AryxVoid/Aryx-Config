@@ -2,7 +2,7 @@
 
 
 
->I'm AuthZero... But you can call me Takimeru
+>I'm AuthZero... But you can call me Zera 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/481475041217871882?borderRadius=5px&idleMessage=not%20doing%20anything&bg=a)](https://discord.com/users/481475041217871882)
 
